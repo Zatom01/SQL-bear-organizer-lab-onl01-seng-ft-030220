@@ -1,1 +1,1 @@
-"CREATE TABLE bears (name TEXT, age INTEGER, gender TEXT, color TEXT, temperament TEXT, alive 0, id INTEGER PRIMARY KEY);"
+"CREATE TABLE bears (name TEXT, age INTEGER, gender TEXT, color TEXT, temperament TEXT, alive INTEGER, id INTEGER PRIMARY KEY);"
