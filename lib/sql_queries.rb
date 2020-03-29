@@ -22,9 +22,9 @@ def selects_most_prominent_color_and_returns_with_count
   "SELECT color,COUNT(color) FROM bears GROUP BY color ORDER BY COUNT(color) DESC LIMIT 1;"
 end
 
-# def counts_number_of_bears_with_goofy_temperaments
-#   "Write your SQL query here"
-# end
+def counts_number_of_bears_with_goofy_temperaments
+  "Write your SQL query here"
+end
 
 # def selects_bear_that_killed_Tim
 #   "SELECT name FROM bears WHERE name=NULL;"
