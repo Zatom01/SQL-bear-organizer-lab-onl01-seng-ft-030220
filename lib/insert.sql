@@ -1,4 +1,4 @@
-INSERT INTO bears (name,age,gender,color,temperament,alive) VALUES ("Mr.Chocolate",6,"Male","Black","Friendly",1);
+INSERT INTO bears (name,age,gender,color,temperament,alive) VALUES ("Mr. Chocolate", 20, "M", "dark brown", "calm", 0);
 INSERT INTO bears (name,age,gender,color,temperament,alive) VALUES ("Rowdy",4,"Male","White","Aggresive",1);
 INSERT INTO bears (name,age,gender,color,temperament,alive) VALUES ("Tabitha",7,"Female","Brown","Friendly",1);
 INSERT INTO bears (name,age,gender,color,temperament,alive) VALUES ("Sergeant Brown",4,"Male","Black","Aggresive",1);
